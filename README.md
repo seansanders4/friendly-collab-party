@@ -10,3 +10,8 @@ This is a basic Read me file
 
 > this is a blockquote
 
+I have added this via a branch
+
+__Because why not__
+
+This is a test for a pull request
